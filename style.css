@@ -1,3 +1,13 @@
 body {
   color: blue;
 }
+
+button {
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(48, 48, 99);
+  color: white;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
